@@ -1,0 +1,6 @@
+body, form {margin: 0px; padding: 0px; -webkit-text-size-adjust: none;}
+ul, li {list-style-type: none; margin: 0px; padding: 0px;}
+a, a:hover, a:link, a:visited {color: inherit; text-decoration: none;}
+table {border-spacing: 0px; border-collapse:collapse; border-spacing:0;}
+img {border: 0px;}
+input, textarea, button {-webkit-appearance: none; moz-appearance: none;  -ms-appearance: none; -o-appearance: none; appearance: none; -webkit-border-radius: 0;}
