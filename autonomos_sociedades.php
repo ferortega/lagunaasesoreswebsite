@@ -14,21 +14,21 @@
 	<div class='price-box'>
 		<div class='title large-title'>Todo incluido</div>
 		<div class='title large-title'>estimación directa</div>
-		<div class='price'>35&#8364;</div>
+		<div class='price'>40&#8364;</div>
 	</div>
 	<div class='price-box'>
 		<div class='title large-title'>Todo incluido</div>
 		<div class='title large-title'>módulos</div>
-		<div class='price'>20&#8364;</div>
+		<div class='price'>30&#8364;</div>
 	</div>
 	<div class='price-box'>
 		<div class='title large-title'>Todo incluido</div>
 		<div class='title large-title'>sociedades</div>
-		<div class='price'>75&#8364;</div>
+		<div class='price'>85&#8364;</div>
 	</div>	
 </div>
 
-<div class='price-info'>Suplemento de <b>+10&#8364;</b> por el primer trabajador. Suplemento de <b>+5&#8364;</b> a partir del segundo trabajador.</div>
+<div class='price-info'>Suplemento de <b>+12&#8364;</b> por el primer trabajador. Suplemento de <b>+6&#8364;</b> a partir del segundo trabajador.</div>
 
 <p>En caso de necesitarlo, también te <b>asesoraremos</b> sobre trámites previos para abrir un nuevo negocio, estrategias de promoción y marketing, publicidad, introducción en redes sociales...</p>
 
