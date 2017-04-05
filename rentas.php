@@ -1,4 +1,4 @@
-<?php 
+<?php
 	require_once('web-builder.php');
 	$web = new WebBuilder('Declaraciones de la Renta');
 	$web->printBeforeContent();
@@ -8,24 +8,19 @@
 
 <div class='line-quote'>Somos especialistas en mejorar los borradores de hacienda</div>
 
-<p>Nos <b>comprometemos</b> a realizar su declaración de la renta o a revisar su borrador con la máxima atención, discreción y mirando siempre por <b>sus intereses</b>. En caso de traer el borrador, se hará un simulacro de la declaración y en caso de no mejorar, solo pagaría la revisión del borrador.</p>
+<p>Nos <b>comprometemos</b> a realizar su declaración de la renta con la máxima atención, discreción y mirando siempre por <b>sus intereses</b>. En caso de traer el borrador, se hará un simulacro de la declaración y en caso de no mejorar, solo pagaría la revisión del borrador.</p>
 
 <div class='prices-section'>
 	<div class='price-box'>
-		<div class='title large-title'>Revisión del</div>
-		<div class='title large-title'>borrador</div>
-		<div class='price'>5&#8364;</div>
-	</div>
-	<div class='price-box'>
 		<div class='title large-title'>Declaración</div>
 		<div class='title large-title'>individual</div>
-		<div class='price'>25&#8364;</div>
+		<div class='price'>30&#8364;</div>
 	</div>
 	<div class='price-box'>
 		<div class='title large-title'>Matrimonios</div>
 		<div class='title small-title'>(individuales o conjunta)</div>
-		<div class='price'>35&#8364;</div>
-	</div>	
+		<div class='price'>40&#8364;</div>
+	</div>
 </div>
 
 <?php
